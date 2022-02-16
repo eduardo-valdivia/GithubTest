@@ -1,14 +1,14 @@
 # GithubTest
 Learning Git commands and testing them
 
-git add "filename" //add file to github repository
+git add /path/to/file //add file to github repository
 git add . //add all files
 
 git commit -m "Your message here" //add a commit with a message, message must be in quotes
 
 git diff //shows the difference between files and whats in repository 
 
-git push //push all changes to repository
+git status //check on status of what you are working on
 
 git checkout -b branch name // transfer over to branch
 
